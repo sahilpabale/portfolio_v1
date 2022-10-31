@@ -1,0 +1,10 @@
+export const WEBSOCKET_URL = "wss://api.lanyard.rest/socket";
+export const DISCORD_ID = "463449066672619520";
+export const EMAIL_ADDRESS = "hey@sahil.lol";
+export const COOKIE_NAME = "user-cookie";
+export const BLOGS_URL_PATH = "/blogs";
+export const NOTES_DIR = "data/notes";
+export const BLOGS_DIR = "data/blogs";
+export const CACHE_TOKEN = "nas-dsf";
+export const CITY = "Navi Mumbai";
+export const COUNTRY = "IN";

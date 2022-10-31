@@ -1,0 +1,80 @@
+export const technologies = [
+  {
+    id: 1,
+    text: "Rust",
+    link: "https://www.rust-lang.org/",
+    desc: "A systems programming language.",
+  },
+  {
+    id: 2,
+    text: "TypeScript",
+    link: "https://www.typescriptlang.org/",
+    desc: "A strongly typed programming language that builds on JavaScript, giving you better tooling at any scale.",
+  },
+  {
+    id: 3,
+    text: "Java",
+    link: "https://www.java.com/en/",
+    desc: "A general-purpose programming language that is class-based, object-oriented, and designed to have as few implementation dependencies as possible.",
+  },
+  {
+    id: 4,
+    text: "APIs",
+    link: "https://en.wikipedia.org/wiki/Application_programming_interface",
+    desc: "I build APIs that scale.",
+  },
+  {
+    id: 8,
+    text: "Node.js",
+    link: "https://nodejs.org/en/",
+    desc: "A JavaScript runtime environment built on top of the v8 engine.",
+  },
+  {
+    id: 5,
+    text: "Prisma",
+    link: "https://www.prisma.io/",
+    desc: "An open-source ORM for Node. js and TypeScript.",
+  },
+  {
+    id: 6,
+    text: "Git",
+    link: "https://git-scm.com/",
+    desc: "An open source software for distributed version control.",
+  },
+  {
+    id: 9,
+    text: "Next.js",
+    link: "https://nextjs.org/",
+    desc: "A React framework that gives you building blocks to create web applications.",
+  },
+  {
+    id: 10,
+    text: "Docker",
+    link: "https://www.docker.com/",
+    desc: "An open platform for developing, shipping, and running applications. Docker enables you to separate your applications from your infrastructure so you can deliver software quickly.",
+  },
+  {
+    id: 11,
+    text: "Postgres",
+    link: "https://www.postgresql.org/",
+    desc: "An open source object-relational database system that uses and extends the SQL language.",
+  },
+  {
+    id: 12,
+    text: "MongoDB",
+    link: "https://www.mongodb.com/",
+    desc: "A cross-platform document-oriented database program. Classified as a NoSQL database program, MongoDB uses JSON-like documents with schemas.",
+  },
+  {
+    id: 14,
+    text: "Express",
+    link: "https://expressjs.com/",
+    desc: "A framework that runs within Node.js that allows developers to create backend services.",
+  },
+  {
+    id: 16,
+    text: "JavaScript",
+    link: "https://www.ecma-international.org/publications-and-standards/standards/ecma-262/",
+    desc: "A programming language for the web.",
+  },
+];
