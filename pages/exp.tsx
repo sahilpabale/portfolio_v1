@@ -19,6 +19,7 @@ const Projects: NextPage = () => {
           <div className="flex items-center mb-4 min-h-[4rem] justify-between">
             <Heading style={{ marginBottom: 0 }}>Experience</Heading>
           </div>
+          <p className="text-white">WIP 🏗</p>
           <GoBack />
         </Animate>
       </Layout>

@@ -1,5 +1,4 @@
 import { Dropdown } from "./Dropdown";
-import { Toggle } from "./Toggle";
 
 // Next.js
 import { useRouter } from "next/router";
@@ -32,7 +31,6 @@ export const Nav = () => {
           </LinkTag>
         ))}
       </div>
-      <Toggle />
     </nav>
   );
 };
